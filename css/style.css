@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+body{   
+     background: linear-gradient(90deg, rgba(103,0,158,1) 0%, rgba(98,78,255,1) 60%, rgba(0,167,255,1) 100%);
+}
+
+li{
+    list-style: none;
+}
+
+#Mensagem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+}
+
+#Mensagem h2{
+    font-size: 4rem;
+    animation-duration: 1.5s;
+}
+
+/*Quando for apresentado a mensagem de acertos será iniciado uma animação*/
+@keyframes animacao{
+    0%   {margin-top: 0%;}
+    100% {margin-top: 10%; }
+  }
+
+
+.show{
+    background-color: #FFF;
+    padding: 2% 50px 2% 50px;
+    margin: 2% 25% 0 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+    border-radius: 15px;
+    transition: .5s;
+}
+
+.Titulo{
+    margin-top: 5%;
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5rem;
+}
+
+.show h3{
+    padding-bottom: 20px;
+}
+
+.show button{
+    width: 90%;
+    border: none;
+    color: #FFF;
+    text-align: left;
+    background-color: rgb(5, 143, 218);
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.show button:hover{
+    background-color: rgb(0, 96, 148);
+    transition: 0.2s;
+}
+
+.hide{
+    position: fixed;
+    opacity: 0;
+    visibility: hidden;
+}

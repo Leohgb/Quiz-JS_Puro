@@ -1,0 +1,101 @@
+[
+    {
+        "questao" : "Opção que preenche corretamente as lacunas: O gerente dirigiu-se ___ sua sala e pôs-se ___ falar ___ todas as pessoas convocadas. Qual é a resposta Correta? ",
+        "respostas": [
+            {"alternativa" : ["à - à - à", false]},
+            {"alternativa" : ["a - à - à", false]},
+            {"alternativa" : ["à - a - a", true]},
+            {"alternativa" : ["a - a - à", false]}
+        ]
+    },
+    
+    {
+        "questao" : "Indique a alternativa correta.",
+        "respostas": [
+            {"alternativa" : ["Este é um exemplo de metonímia: “Parece que temos um Pavarotti”.", true]},
+            {"alternativa" : ["Aliteração é a repetição de sons vocálicos.", false]},
+            {"alternativa" : ["Antítese e paradoxo são dois nomes para a mesma figura de linguagem, a que utiliza ideias contrárias.", false]},
+            {"alternativa" : ["Aliteração, paronomásia, assonância e onomatopeia são figuras de sintaxe.", false]}
+        ]
+    },
+        
+    {
+        "questao" : "Em um projeto para a construção de um cinema, os arquitetos estão avaliando a relação entre a quantidade de fileiras e a quantidade de cadeiras em cada fileira. O projeto inicial prevê uma sala para 304 pessoas. No caso de utilizarem 19 fileiras, o número de cadeiras por fileira será",
+        "respostas": [
+            {"alternativa" : ["14", false]},
+            {"alternativa" : ["15", false]},
+            {"alternativa" : ["16", true]},
+            {"alternativa" : ["13", false]}
+        ]
+    },
+
+    {
+        "questao" : "Duas impressoras funcionando simultaneamente imprimem certa quantidade de páginas em 36 segundos. Sozinha, uma delas imprime a mesma quantidade de páginas em 90 segundos. Funcionando sozinha, para imprimir a mesma quantidade de páginas, a outra impressora gastaria:",
+        "respostas": [
+            {"alternativa" : ["48 segundos", false]},
+            {"alternativa" : ["54 segundos", false]},
+            {"alternativa" : ["60 segundos", true]},
+            {"alternativa" : ["72 segundos", false]}
+        ]
+    },
+
+    {
+        "questao" : "O período colonial no Brasil teve início em:",
+        "respostas": [
+            {"alternativa" : ["1530", true]},
+            {"alternativa" : ["1500", false]},
+            {"alternativa" : ["1600", false]},
+            {"alternativa" : ["1589", false]}
+        ]
+    },
+
+    {
+        "questao" : "A Segunda Grande Guerra (1939-1945) adquiriu caráter mundial a partir de 7 de dezembro de 1941, quando:",
+        "respostas": [
+            {"alternativa" : ["Os russos tomaram a iniciativa de anexar os Estados Bálticos", false]},
+            {"alternativa" : ["Os alemães invadiram o litoral mediterrâneo da África", false]},
+            {"alternativa" : ["Os japoneses atacaram a base norte-americana de Pearl Harbor", true]},
+            {"alternativa" : ["Os franceses, por determinação do marechal Pétain, ocuparam o Sudeste da Ásia", false]}
+        ]
+    },
+
+    {
+        "questao" : "A principal consequência do movimento de translação é",
+        "respostas": [
+            {"alternativa" : ["Duração do dia e da noite", false]},
+            {"alternativa" : ["Efeito estufa natural", false]},
+            {"alternativa" : ["As estações do ano", true]},
+            {"alternativa" : ["A posição do nascer e por do Sol", false]}
+        ]
+    },
+
+    {
+        "questao" : "Qual movimento abaixo NÃO é considerado um movimento que o planeta Terra realiza?",
+        "respostas": [
+            {"alternativa" : ["Precessão", false]},
+            {"alternativa" : ["Nutação", false]},
+            {"alternativa" : ["Deslocamento do periélio", false]},
+            {"alternativa" : [" Órbita elíptica em torno da Lua", true]}
+        ]
+    },
+
+    {
+        "questao" : "Analise as alternativas a seguir e marque aquela que NÃO descreve uma função do sistema nervoso.",
+        "respostas": [
+            {"alternativa" : ["captar e interpretar estímulos do ambiente", false]},
+            {"alternativa" : ["transportar informações", false]},
+            {"alternativa" : ["criar respostas por meio de movimentos, sensações ou constatações", false]},
+            {"alternativa" : ["transportar de nutrientes e oxigênio para o corpo", true]}
+        ]
+    }, 
+
+    {
+        "questao" : "Qual cientista propôs o primeiro modelo atômico moderno que ficou conhecido como “bola de bilhar”?",
+        "respostas": [
+            {"alternativa" : ["Isaac Newton", false]},
+            {"alternativa" : ["Demócrito", false]},
+            {"alternativa" : ["John Dalton", true]},
+            {"alternativa" : ["Ernest Rutherford", false]}
+     ]
+    } 
+]
