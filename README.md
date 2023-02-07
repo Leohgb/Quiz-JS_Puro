@@ -1,6 +1,8 @@
 # Quiz-JS_Puro
 Quiz com questões de conhecimentos gerais feito com javascript
 
-#npm install -g live-server
+# Passos para Executar
+Execute em ordem no terminal
 
-#live-server
+1° npm install -g live-server
+2° live-server
